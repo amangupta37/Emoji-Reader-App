@@ -1,0 +1,66 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  background-color: #000;
+}
+
+.App {
+  position: relative;
+  top: 2rem;
+  width: 100%;
+  height: 23rem;
+  border: solid 2px white;
+  font-family: monospace;
+  text-align: center;
+  border-radius: 0.5rem;
+}
+h1 {
+  font: monospace;
+  text-align: center;
+  position: relative;
+  top: 2rem;
+  color: #fff;
+  font-size: 3rem;
+}
+h2 {
+  color: white;
+}
+input {
+  position: relative;
+  top: 3rem;
+  width: 50%;
+  height: 3.5rem;
+  border: solid 2px white;
+  border-radius: 2rem;
+  text-align: center;
+  font-size: 0.8rem;
+  color: white;
+}
+span {
+  position: relative;
+  top: 15rem;
+  background-color: none;
+}
+.custom {
+  position: relative;
+  top: 4rem;
+  width: 70%;
+  margin: 0 auto;
+  height: 4rem;
+}
+h3 {
+  box-sizing: border-box;
+  color: rgb(28, 235, 123);
+  font-size: 2rem;
+  font-family: "Courier New", Courier, monospace;
+  text-align: center;
+}
+
+p {
+  position: relative;
+  top: 12rem;
+  color: red;
+  font-size: 1.5rem;
+  text-align: center;
+}
